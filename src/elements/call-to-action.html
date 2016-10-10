@@ -11,6 +11,10 @@
   <template>
 
     <style include="shared-styles">
+      a {
+        background: var(--default-primary-color);
+        color: var(--text-primary-color);
+      }
       :host {
         display: block;
         background: var(--default-primary-color);
@@ -46,8 +50,8 @@
     </style>
 
     <div class="container container-narrow">
-      <h4 class="heading">[[localize(app.data.callToAction.videoTitle)]]</h4>
-      <paper-button class="open-dialog-button" on-tap="playVideo">[[localize('action')]]</paper-button>
+      <h4 class="heading">[[localize(app.data.callToAction.title)]]</h4>
+      <a href="{{app.data.callToAction.photoAlbum}}"><paper-button class="open-dialog-button">[[localize('action')]]</paper-button></a>
     </div>
 
   </template>
@@ -62,12 +66,7 @@
 
         behaviors: [
           HOVERBOARD.LocalizeBehavior
-        ],
-
-        playVideo: function () {
-          HOVERBOARD.Elements.Template.openVideo(this.localize(this.app.data.callToAction.videoTitle),
-            this.app.data.callToAction.videoId, true);
-        }
+        ]
 
       });
 
