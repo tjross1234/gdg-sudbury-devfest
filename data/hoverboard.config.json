@@ -150,23 +150,23 @@
   "teamPageText": "team-page-text",
   "statistics": [
     {
-      "counter": 600,
+      "counter": 30,
       "caption": "attendees"
     },
     {
-      "counter": 2,
+      "counter": 1,
       "caption": "days"
     },
     {
-      "counter": 30,
+      "counter": 7,
       "caption": "sessions"
     },
     {
-      "counter": 3,
+      "counter": 1,
       "caption": "tracks"
     }
   ],
-  "hashtag": "dfua",
+  "hashtag": "#gdgsudbury",
   "social": [
     {
       "name": "twitter",
