@@ -15,13 +15,6 @@
         "minHeight": "360px"
       }
     },
-    "blog": {
-      "headerSettings": {
-        "backgroundColor": "#03a9f4",
-        "fontColor": "#fff",
-        "tabBarColor": "#fff"
-      }
-    },
     "speakers": {
       "headerSettings": {
         "backgroundColor": "#3f51b5",
@@ -55,10 +48,6 @@
     {
       "route": "home",
       "permalink": "/"
-    },
-    {
-      "route": "blog",
-      "permalink": "/blog/"
     },
     {
       "route": "schedule",
