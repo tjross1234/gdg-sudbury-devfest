@@ -164,8 +164,8 @@
     "apiKey": "",
     "link": null,
     "pointer": {
-      "latitude": 46.4639153,
-      "longitude": -80.9667442,
+      "latitude": 46.463819,
+      "longitude": -80.964400,
       "zoom": 15
     },
     "mapCenter": {
@@ -173,9 +173,7 @@
       "longitude": -80.9667442
     },
     "images": [
-      "/images/backgrounds/location_1.jpg",
-      "/images/backgrounds/location_2.jpg",
-      "/images/backgrounds/location_3.jpg"
+      "/images/backgrounds/location_1.jpg"
     ]
   },
   "videosSessionsUrl": null,
