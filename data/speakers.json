@@ -7,13 +7,14 @@
         "company": null,
         "companyLogo": null,
         "country": "Sudbury, Ontario",
-        "photoUrl": null,
+        "photoUrl": "/images/people/patrick_trottier.jpg",
         "shortBio": "Patrick Trottier works with many cool technologies.",
         "bio": "Currently working with A Frame (VR for the web), the Servo parallel browser engine, and Janitor (the world's fastest development environment), Patrick has gone to the Canada-Wide Science Fair and works with many cool technologies.",
         "tags": [
             "VR",
             "Web",
-            "SoftwareEngineering"
+            "SoftwareEngineering",
+            "Progressive Web Apps"
         ],
         "badges": [
 
