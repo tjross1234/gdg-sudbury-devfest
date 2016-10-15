@@ -87,14 +87,14 @@
     "4": {
         "id": 4,
         "featured": true,
-        "name": "Zack Ross",
+        "name": "Zachary Ross",
         "title": "Developer",
-        "company": null,
-        "companyLogo": null,
+        "company": "ZX Games",
+        "companyLogo": "/images/logos/zx.png",
         "country": "Azilda, Ontario",
-        "photoUrl": null,
-        "shortBio": "Zack builds games with Unity and Google Cardboard.",
-        "bio": "Zack builds games with Unity and Google Cardboard.",
+        "photoUrl": "/images/people/zachary_ross.jpg",
+        "shortBio": "Zach builds games with Unity 3D and Google Cardboard.",
+        "bio": "Zach builds games with Unity 3D and Google Cardboard. He also enjoys modelling with Blender and creating videos.",
         "tags": [
             "VR",
             "Unity"
@@ -103,6 +103,21 @@
 
         ],
         "socials": [
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/xzippyzachx"
+            },
+            {
+                "icon": "website",
+                "name": "Youtube",
+                "link": "https://www.youtube.com/user/xzippyzachx"
+            },
+            {
+                "icon": "facebook",
+                "name": "Facebook",
+                "link": "https://www.facebook.com/XzippyzachX-210806729318792"
+            }
         ]
     },
     "5": {
@@ -113,9 +128,9 @@
         "company": "Vale",
         "companyLogo": null,
         "country": "Azilda, Ontario",
-        "photoUrl": null,
-        "shortBio": null,
-        "bio": null,
+        "photoUrl": "/images/people/trevor_ross.jpg",
+        "shortBio": "Hobby Full Stack Web Developer and Coding Nerd",
+        "bio": "A Project Manager in the Engineering Systems group at Vale, Trevor implements solutions that leverage technology to streamline Business Processes.",
         "tags": [
             "Firebase",
             "Angular"
@@ -128,6 +143,21 @@
                 "icon": "linkedin",
                 "name": "LinkedIn",
                 "link": "https://ca.linkedin.com/in/trevor-ross-b9849456"
+            },
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/xtrevorross"
+            },
+            {
+                "icon": "gplus",
+                "name": "Google+",
+                "link": "https://plus.google.com/+TrevorRoss"
+            },
+            {
+                "icon": "facebook",
+                "name": "Facebook",
+                "link": "https://www.facebook.com/trevor.ross.182"
             }
         ]
     },
