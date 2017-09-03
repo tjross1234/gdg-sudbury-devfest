@@ -1,28 +1,27 @@
 {
   "basepath": "/",
   "url": "https://hoverboard-v2-dev.firebaseapp.com/",
-  "startDate": "2017-10-013T09:00:00+03:00",
-  "endDate": "2017-10-14T19:00:00+03:00",
+  "startDate": "2017-11-04T09:00:00-04:00",
+  "endDate": "2017-11-04T19:00:00-04:00",
   "analytics": {
-    "prod": "UA-43643469-8",
-    "dev": "UA-43643469-9"
+    "prod": "UA-105822663-1",
+    "dev": "UA-105822663-1"
   },
   "environment": "dev",
   "prefix": "/",
   "firebase": {
-    "apiKey": "AIzaSyALDa2D7CMhK_wt2VkET1MaJuQXYVUJd2I",
-    "authDomain": "hoverboard-experimental.firebaseapp.com",
-    "databaseURL": "https://hoverboard-experimental.firebaseio.com",
-    "projectId": "hoverboard-experimental",
-    "storageBucket": "hoverboard-experimental.appspot.com",
-    "messagingSenderId": "1088172422905"
+    "apiKey": "AIzaSyDBHF7VzODOgZ2SbpByWBvhdCTBc1_UEeY",
+    "authDomain": "gdg-sudbury-devfest-2017.firebaseapp.com",
+    "databaseURL": "https://gdg-sudbury-devfest-2017.firebaseio.com",
+    "projectId": "gdg-sudbury-devfest-2017",
+    "storageBucket": "gs://gdg-sudbury-devfest-2017.appspot.com/",
+    "messagingSenderId": "547471438549"
   },
-  "googleMapApiKey": "AIzaSyDWy6O98n-ueoVaYPWRPve23vjm3JP08gw",
+  "googleMapApiKey": "AIzaSyA28OjRCLC0h6sLsHREiqQebV3DXq_Vi0A",
   "organizer": {
-    "name": "GDG Lviv",
-    "twitter": "gdglviv",
-    "blog": "https://medium.com/gdg-lviv",
-    "url": "http://lviv.gdg.org.ua/"
+    "name": "GDG Sudbury",
+    "twitter": "gdgsudbury",
+    "url": "https://meetup.com/GDG-Sudbury/"
   },
   "webapp": {
     "shortName": "DevFest",
@@ -59,7 +58,7 @@
   ],
   "heroSettings": {
     "home": {
-      "description": "The biggest Google tech conference in CEE. All about Android, Web, and Cloud.",
+      "description": "Sudbury's annual developer conference--all about the Web, Android, and Cloud Computing.",
       "background": {
         "color": "#673ab7",
         "image": "/images/backgrounds/home.jpg"
@@ -75,7 +74,7 @@
     },
     "speakers": {
       "title": "Speakers",
-      "description": "Hear from the Googlers, Partners, and Guest Speakers who are building the future of cloud. Check back often as we add more speakers, including our customers and partners.",
+      "description": "Learn from people who are building the future. Check back often as we add more speakers!",
       "background": {
         "color": "#FFF"
       },
@@ -104,18 +103,18 @@
     }
   },
   "location": {
-    "short": "Lviv, Ukraine",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
+    "short": "Sudbury, Ontario",
+    "address": "Laurentian University, 935 Ramsey Lake Road, Sudbury, Ontario",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
+      "latitude": 46.4673033,
+      "longitude": -80.9757673,
       "zoom": 5
     },
     "mapCenter": {
-      "latitude": 48,
-      "longitude": 8
+      "latitude": 46,
+      "longitude": -80
     },
-    "description": "Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event"
+    "description": "Laurentian University offers excellent conference facilities"
   },
   "mediaQueries": {
     "xs": {
@@ -136,20 +135,8 @@
   "socialNetwork": {
     "follow": [
       {
-        "name": "facebook",
-        "url": "https://www.facebook.com/devfest.ukraine/"
-      },
-      {
         "name": "twitter",
-        "url": "https://twitter.com/devfest_ukraine/"
-      },
-      {
-        "name": "instagram",
-        "url": "https://www.instagram.com/devfestukraine"
-      },
-      {
-        "name": "youtube",
-        "url": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+        "url": "https://twitter.com/gdgsudbury/"
       }
     ],
     "share": [
@@ -167,7 +154,7 @@
       }
     ]
   },
-  "mailto": "devfest@gdg.org.ua",
+  "mailto": "denials@gmail.com",
   "mailchimp": {
     "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
     "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
@@ -178,22 +165,10 @@
         "name": "google",
         "label": "Sign-in with Google",
         "url": "https://accounts.google.com"
-      }, 
-      {
-        "name": "facebook",
-        "label": "Sign-in with Facebook",
-        "url": "https://www.facebook.com"
-      }, 
-      {
-        "name": "twitter",
-        "label": "Sign-in with Twitter",
-        "url": "https://twitter.com"
       }
     ],
     "allowedProvidersUrl": [
-      "https://accounts.google.com",
-      "https://www.facebook.com",
-      "https://twitter.com"
+      "https://accounts.google.com"
     ]
   }
 }
