@@ -1,6 +1,6 @@
 {
   "basepath": "/",
-  "url": "https://hoverboard-v2-dev.firebaseapp.com/",
+  "url": "https://devfest2017.gdgsudbury.ca/",
   "startDate": "2017-11-04T09:00:00-04:00",
   "endDate": "2017-11-04T19:00:00-04:00",
   "analytics": {
@@ -15,7 +15,10 @@
     "databaseURL": "https://gdg-sudbury-devfest-2017.firebaseio.com",
     "projectId": "gdg-sudbury-devfest-2017",
     "storageBucket": "gs://gdg-sudbury-devfest-2017.appspot.com/",
-    "messagingSenderId": "547471438549"
+    "messagingSenderId": "547471438549",
+    "userSessionsPath": "/userSessions",
+    "ratingsPath": "/ratings",
+    "indexedDbSession": "hoverboard"
   },
   "googleMapApiKey": "AIzaSyA28OjRCLC0h6sLsHREiqQebV3DXq_Vi0A",
   "organizer": {
