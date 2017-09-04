@@ -65,27 +65,25 @@
     }
   },
   "speakers" : [ null, {
-    "bio" : "A local hero, who is a hero locally",
-    "company" : "Example.com",
-    "companyLogo" : "/images/logos/gdg-lviv.svg",
+    "bio" : "Graphic & Web Designer, and Chapter Lead of Ladies Learning Code Sudbury",
     "country" : "Sudbury, Ontario",
     "featured" : true,
     "id" : 1,
-    "name" : "Local Hero",
-    "photoUrl" : "/images/people/mete_atamel.jpg",
-    "shortBio" : "A local hero",
+    "name" : "Chrisanne Daniel",
+    "photoUrl" : "/images/people/cmdaniel.jpg",
+    "shortBio" : "A Graphic & Web Designer and a Chapter Lead at Ladies Learning Code Sudbury",
     "socials" : [ {
       "icon" : "linkedin",
-      "link" : "https://www.linkedin.com/in/example/",
+      "link" : "https://www.linkedin.com/in/chrisannedaniel/",
       "name" : "LinkedIn"
     }, {
       "icon" : "twitter",
-      "link" : "https://twitter.com/example/",
+      "link" : "https://twitter.com/Chrissi_MD/",
       "name" : "Twitter"
     }, {
-      "icon" : "github",
-      "link" : "https://github.com/example/",
-      "name" : "GitHub"
+      "icon" : "website",
+      "link" : "https://chrisannedaniel.com/",
+      "name" : "Web site"
     } ],
     "tags" : [ "Design", "LLC" ],
     "title" : "Local Hero"
@@ -122,18 +120,31 @@
   } ],
   "team" : [ {
     "members" : [ {
-      "name" : "Sofiya Huts",
-      "photoUrl" : "/images/people/sofiya_huts.jpg",
+      "name" : "Em Bamsey",
+      "photoUrl" : "/images/people/embamsey.jpg",
       "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+SofiaHuts",
-        "name" : "Google+"
+        "icon" : "twitter",
+        "link" : "https://twitter.com/embamsey",
+        "name" : "Twitter"
       }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/sophie.huts.7",
-        "name" : "Facebook"
+        "icon" : "gplus",
+        "link" : "https://plus.google.com/+EmBamsey",
+        "name" : "Google+"
       } ],
-      "title" : "Social and media"
+      "title" : "Organizer"
+    }, {
+      "name" : "David Pellegrini",
+      "photoUrl" : "/images/people/dpellegrini.jpg",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/dpells02",
+        "name" : "Twitter"
+      }, {
+        "icon" : "gplus",
+        "link" : "https://plus.google.com/+DavidPellegrini02",
+        "name" : "Google+"
+      } ],
+      "title" : "Organizer"
     }, {
       "name" : "Dan Scott",
       "photoUrl" : "/images/people/dan_Scott.jpg",
@@ -151,35 +162,13 @@
   } ],
   "tickets" : {
     "elements" : [ {
-      "currency" : "₴",
-      "ends" : "Sep 8",
-      "info" : "Requires valid student ID",
-      "name" : "Student",
-      "price" : 500,
+      "currency" : "$",
+      "ends" : "Nov 1",
+      "name" : "Free",
+      "price" : 0.00,
       "soldOut" : false,
-      "starts" : "May 1"
-    }, {
-      "currency" : "₴",
-      "ends" : "July 1",
-      "info" : "Or first 100 tickets",
-      "name" : "Early Bird",
-      "price" : 750,
-      "soldOut" : true,
-      "starts" : "May 1"
-    }, {
-      "currency" : "₴",
-      "ends" : "Sep 8",
-      "name" : "Lazy Bird",
-      "price" : 1000,
-      "soldOut" : false,
-      "starts" : "July 1"
+      "starts" : "Sep 1"
     } ],
-    "url" : "http://2event.com/events/630032"
-  },
-  "videos" : [ {
-    "speakers" : "Buşra Deniz",
-    "thumbnail" : "/images/sessions/123.JPG",
-    "title" : "Google WebRTC on Mobile",
-    "youtubeId" : "YWaOdwCenZM"
-  } ]
+    "url" : "https://www.meetup.com/GDG-Sudbury/events/242553086"
+  }
 }

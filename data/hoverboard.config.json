@@ -36,11 +36,6 @@
       "title": "Home"
     },
     {
-      "route": "blog",
-      "permalink": "/blog/",
-      "title": "Blog"
-    },
-    {
       "route": "schedule",
       "permalink": "/schedule/",
       "title": "Schedule"
@@ -108,7 +103,7 @@
     "pointer": {
       "latitude": 46.4673033,
       "longitude": -80.9757673,
-      "zoom": 5
+      "zoom": 7
     },
     "mapCenter": {
       "latitude": 46,
@@ -155,10 +150,6 @@
     ]
   },
   "mailto": "denials@gmail.com",
-  "mailchimp": {
-    "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
-    "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
-  },
   "signInProviders": {
     "providersData": [
       {
