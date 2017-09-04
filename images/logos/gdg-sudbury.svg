@@ -23,7 +23,7 @@
   <defs
      id="defs74" />
   <style
-     id="style2">.st0{fill:none;} .st1{fill:#FFC107;} .st2{fill:#0F9D58;} .st3{opacity:0.2;fill:#BF360C;enable-background:new ;} .st4{opacity:0.2;fill:#263238;enable-background:new ;} .st5{opacity:0.2;fill:#FFFFFF;enable-background:new ;} .st6{fill:url(#XMLID_126_);} .st7{fill:url(#XMLID_127_);} .st8{fill:#4285F4;} .st9{fill:#DB4437;} .st10{opacity:0.2;fill:#1A237E;enable-background:new ;} .st11{opacity:0.2;fill:#3E2723;enable-background:new ;} .st12{fill:url(#XMLID_128_);} .st13{fill:#FAFAFA;}</style>
+     id="style2">.st0{fill:none;} .st1{fill:#FFC107;} .st2{fill:#0F9D58;} .st3{opacity:0.2;fill:#BF360C;enable-background:new ;} .st4{opacity:0.2;fill:#263238;enable-background:new ;} .st5{opacity:0.2;fill:#FFFFFF;enable-background:new ;} .st6{fill:url(#XMLID_126_);} .st7{fill:url(#XMLID_127_);} .st8{fill:#4285F4;} .st9{fill:#DB4437;} .st10{opacity:0.2;fill:#1A237E;enable-background:new ;} .st11{opacity:0.2;fill:#3E2723;enable-background:new ;} .st12{fill:url(#XMLID_128_);} .st13{fill:#222222;}</style>
   <g
      id="XMLID_60_">
     <g
@@ -243,13 +243,13 @@
        id="text160"
        y="175.52924"
        x="192.35519"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:25px;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:25px;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#222222;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan158"
          y="175.52924"
          x="192.35519"><tspan
            id="tspan156"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.33333588px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#f9f9f9"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.33333588px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#222222"
            y="175.52924"
            x="192.35519">Sudbury 2016</tspan></tspan></text>
   </g>
