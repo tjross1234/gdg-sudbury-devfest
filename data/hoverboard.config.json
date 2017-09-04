@@ -101,13 +101,13 @@
     "short": "Sudbury, Ontario",
     "address": "Laurentian University, 935 Ramsey Lake Road, Sudbury, Ontario",
     "pointer": {
-      "latitude": 46.4673033,
-      "longitude": -80.9757673,
-      "zoom": 15
+      "latitude": 46.4667745,
+      "longitude": -80.9764219,
+      "zoom": 14
     },
     "mapCenter": {
-      "latitude": 46,
-      "longitude": -81
+      "latitude": 46.4593228,
+      "longitude": -80.9807939
     },
     "description": "Laurentian University offers excellent facilities for learning and socializing"
   },
