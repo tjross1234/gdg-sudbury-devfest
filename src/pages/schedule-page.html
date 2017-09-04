@@ -107,6 +107,9 @@
       }
 
       _setDay(active, day, scheduleDays) {
+        if (active && !day) {
+          day = '2017-11-04';
+        }
         if (active && scheduleDays) {
           routingActions.setSubRoute(day || Object.keys(scheduleDays)[0]);
         }
