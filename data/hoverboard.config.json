@@ -103,13 +103,13 @@
     "pointer": {
       "latitude": 46.4673033,
       "longitude": -80.9757673,
-      "zoom": 7
+      "zoom": 9
     },
     "mapCenter": {
       "latitude": 46,
-      "longitude": -80
+      "longitude": -81
     },
-    "description": "Laurentian University offers excellent conference facilities"
+    "description": "Laurentian University offers excellent facilities for learning and socializing"
   },
   "mediaQueries": {
     "xs": {

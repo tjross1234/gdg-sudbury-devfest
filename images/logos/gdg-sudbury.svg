@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   viewBox="0 0 839 200"
+   id="Layer_4">
+  <metadata
+     id="metadata76">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs74" />
+  <style
+     id="style2">.st0{fill:none;} .st1{fill:#FFC107;} .st2{fill:#0F9D58;} .st3{opacity:0.2;fill:#BF360C;enable-background:new ;} .st4{opacity:0.2;fill:#263238;enable-background:new ;} .st5{opacity:0.2;fill:#FFFFFF;enable-background:new ;} .st6{fill:url(#XMLID_126_);} .st7{fill:url(#XMLID_127_);} .st8{fill:#4285F4;} .st9{fill:#DB4437;} .st10{opacity:0.2;fill:#1A237E;enable-background:new ;} .st11{opacity:0.2;fill:#3E2723;enable-background:new ;} .st12{fill:url(#XMLID_128_);} .st13{fill:#FAFAFA;}</style>
+  <g
+     id="XMLID_60_">
+    <g
+       id="XMLID_61_">
+      <g
+         id="XMLID_62_">
+        <path
+           d="M122.5 90.6L70.1 0H0l57.8 100L0 200h70.1l52.4-90.6c3.3-5.8 3.3-13 0-18.8z"
+           class="st0"
+           id="XMLID_106_" />
+        <path
+           d="M92.4 159.8l-16.6-28.7L35.9 200h34.2l22.8-39.4z"
+           class="st1"
+           id="XMLID_105_" />
+        <path
+           d="M122.5 90.6L70.1 0H0l57.8 100L0 200h70.1l52.4-90.6c3.3-5.8 3.3-13 0-18.8z"
+           class="st0"
+           id="XMLID_104_" />
+        <path
+           d="M57.8 100l18 31.1L35.9 200H0z"
+           class="st2"
+           id="XMLID_103_" />
+        <path
+           d="M122.5 90.6L70.1 0H0l57.8 100L0 200h70.1l52.4-90.6c3.3-5.8 3.3-13 0-18.8z"
+           class="st0"
+           id="XMLID_102_" />
+        <path
+           d="M70.1 198.4H36.8l-.9 1.6h34.2l22.8-39.4-.5-.8z"
+           class="st3"
+           id="XMLID_101_" />
+        <path
+           d="M122.5 90.6L70.1 0H0l57.8 100L0 200h70.1l52.4-90.6c3.3-5.8 3.3-13 0-18.8z"
+           class="st0"
+           id="XMLID_100_" />
+        <path
+           d="M.9 198.4L0 200h35.9l.9-1.6z"
+           class="st4"
+           id="XMLID_99_" />
+        <path
+           d="M122.5 90.6L70.1 0H0l57.8 100L0 200h70.1l52.4-90.6c3.3-5.8 3.3-13 0-18.8z"
+           class="st0"
+           id="XMLID_98_" />
+        <path
+           d="M0 200h.9l57.4-99.2-.5-.8z"
+           class="st5"
+           id="XMLID_96_" />
+        <path
+           d="M122.5 90.6L70.1 0H0l57.8 100L0 200h70.1l52.4-90.6c3.3-5.8 3.3-13 0-18.8z"
+           class="st0"
+           id="XMLID_94_" />
+        <radialGradient
+           gradientUnits="userSpaceOnUse"
+           gradientTransform="matrix(1 0 0 -1 0 2867.46)"
+           r="69.162"
+           cy="2707.501"
+           cx="92.62"
+           id="XMLID_126_">
+          <stop
+             id="stop15"
+             stop-opacity=".2"
+             stop-color="#BF360C"
+             offset="0" />
+          <stop
+             id="stop17"
+             stop-opacity=".02"
+             stop-color="#BF360C"
+             offset="1" />
+        </radialGradient>
+        <path
+           d="M92.9 160.6l-17.1-29.5-4.2 7.2z"
+           class="st6"
+           id="XMLID_92_" />
+        <path
+           d="M122.5 90.6L70.1 0H0l57.8 100L0 200h70.1l52.4-90.6c3.3-5.8 3.3-13 0-18.8z"
+           class="st0"
+           id="XMLID_90_" />
+        <radialGradient
+           gradientUnits="userSpaceOnUse"
+           gradientTransform="matrix(1 0 0 -1 0 2867.46)"
+           r="69.723"
+           cy="2707.063"
+           cx="92.423"
+           id="XMLID_127_">
+          <stop
+             id="stop22"
+             stop-opacity=".2"
+             stop-color="#263238"
+             offset="0" />
+          <stop
+             id="stop24"
+             stop-opacity=".02"
+             stop-color="#263238"
+             offset="1" />
+        </radialGradient>
+        <path
+           d="M71.6 138.3l4.2-7.2-18-31.1-8.5 14.8z"
+           class="st7"
+           id="XMLID_89_" />
+        <path
+           d="M122.5 90.6L70.1 0H0l57.8 100L0 200h70.1l52.4-90.6c3.3-5.8 3.3-13 0-18.8z"
+           class="st0"
+           id="XMLID_88_" />
+        <g
+           id="XMLID_85_">
+          <g
+             id="XMLID_86_">
+            <path
+               d="M35.9 0H0l92.9 160.6 17.9-31.1z"
+               class="st8"
+               id="XMLID_87_" />
+          </g>
+        </g>
+        <path
+           d="M122.5 90.6L70.1 0H0l57.8 100L0 200h70.1l52.4-90.6c3.3-5.8 3.3-13 0-18.8z"
+           class="st0"
+           id="XMLID_84_" />
+        <path
+           d="M122.5 109.4c3.4-5.8 3.4-13 0-18.8L70.1 0H35.9l74.9 129.5 11.7-20.1z"
+           class="st9"
+           id="XMLID_83_" />
+        <path
+           d="M122.5 90.6L70.1 0H0l57.8 100L0 200h70.1l52.4-90.6c3.3-5.8 3.3-13 0-18.8z"
+           class="st0"
+           id="XMLID_82_" />
+        <path
+           d="M110.8 129.5l-.4-.8L92.9 159 .9 0H0l92.9 160.6 17.9-31.1z"
+           class="st10"
+           id="XMLID_71_" />
+        <path
+           d="M122.5 90.6L70.1 0H0l57.8 100L0 200h70.1l52.4-90.6c3.3-5.8 3.3-13 0-18.8z"
+           class="st0"
+           id="XMLID_69_" />
+        <path
+           d="M70.1 1.6l52.4 90.6c1.5 2.7 2.3 5.6 2.5 8.6.1-3.5-.7-7-2.5-10.2L70.1 0H0l.9 1.6h69.2z"
+           class="st5"
+           id="XMLID_67_" />
+        <path
+           d="M122.5 90.6L70.1 0H0l57.8 100L0 200h70.1l52.4-90.6c3.3-5.8 3.3-13 0-18.8z"
+           class="st0"
+           id="XMLID_66_" />
+        <path
+           d="M110.8 129.5l11.6-20.1c1.8-3.1 2.6-6.7 2.5-10.2-.1 3-.9 5.9-2.5 8.6l-12.1 20.9.5.8z"
+           class="st11"
+           id="XMLID_65_" />
+        <path
+           d="M122.5 90.6L70.1 0H0l57.8 100L0 200h70.1l52.4-90.6c3.3-5.8 3.3-13 0-18.8z"
+           class="st0"
+           id="XMLID_64_" />
+        <radialGradient
+           gradientUnits="userSpaceOnUse"
+           gradientTransform="matrix(1 0 0 -1 0 2867.46)"
+           r="209.922"
+           cy="2865.898"
+           cx="-1.563"
+           id="XMLID_128_">
+          <stop
+             id="stop41"
+             stop-opacity=".1"
+             stop-color="#FFF"
+             offset="0" />
+          <stop
+             id="stop43"
+             stop-opacity="0"
+             stop-color="#FFF"
+             offset="1" />
+        </radialGradient>
+        <path
+           d="M122.5 90.6L70.1 0H0l57.8 100L0 200h70.1l52.4-90.6c3.3-5.8 3.3-13 0-18.8z"
+           class="st12"
+           id="XMLID_63_" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="XMLID_7_">
+    <path
+       d="M275.5 51.8c0 10.9-3.2 19.7-9.7 26.1-7.4 7.7-17 11.6-28.8 11.6-11.3 0-20.9-3.9-28.8-11.8-7.9-7.8-11.9-17.6-11.9-29.1s4-21.3 11.9-29.1c7.9-7.8 17.5-11.8 28.8-11.8 5.6 0 11 1.1 16.1 3.3 5.1 2.2 9.2 5.1 12.2 8.8l-6.9 6.9c-5.2-6.2-12.3-9.3-21.4-9.3-8.2 0-15.4 2.9-21.4 8.7-6 5.8-9 13.3-9 22.6s3 16.8 9 22.6c6 5.8 13.1 8.7 21.4 8.7 8.8 0 16-2.9 21.9-8.8 3.8-3.8 6-9.1 6.6-15.9H237v-9.4h38c.3 2.1.5 4 .5 5.9z"
+       class="st13"
+       id="XMLID_2_" />
+    <path
+       d="M285.4 87.8V9.5h24c12 0 21.7 3.6 28.9 10.9 7.2 7.3 10.8 16.7 10.8 28.3s-3.6 21-10.8 28.3c-7.2 7.3-16.8 10.9-28.9 10.9h-24zm10.1-9.6h13.9c9 0 16.2-2.6 21.5-7.8 5.3-5.2 7.9-12.4 7.9-21.8 0-9.3-2.6-16.5-7.9-21.7-5.3-5.2-12.5-7.8-21.5-7.8h-13.9v59.1z"
+       class="st13"
+       id="XMLID_4_" />
+    <path
+       d="M434.5 51.8c0 10.9-3.2 19.7-9.7 26.1-7.4 7.7-17 11.6-28.8 11.6-11.3 0-20.9-3.9-28.8-11.8-7.9-7.8-11.9-17.6-11.9-29.1s4-21.3 11.9-29.1c7.9-7.8 17.5-11.8 28.8-11.8 5.6 0 11 1.1 16.1 3.3 5.1 2.2 9.2 5.1 12.2 8.8l-6.9 6.9c-5.2-6.2-12.3-9.3-21.4-9.3-8.2 0-15.4 2.9-21.4 8.7-6 5.8-9 13.3-9 22.6s3 16.8 9 22.6c6 5.8 13.1 8.7 21.4 8.7 8.8 0 16-2.9 21.9-8.8 3.8-3.8 6-9.1 6.6-15.9H396v-9.4h38c.3 2.1.5 4 .5 5.9z"
+       class="st13"
+       id="XMLID_8_" />
+    <path
+       d="M470.8 87.8V9.5h24c12 0 21.7 3.6 28.9 10.9 7.2 7.3 10.8 16.7 10.8 28.3s-3.6 21-10.8 28.3c-7.2 7.3-16.8 10.9-28.9 10.9h-24zm10.1-9.6h13.9c9 0 16.2-2.6 21.5-7.8 5.3-5.2 7.9-12.4 7.9-21.8 0-9.3-2.6-16.5-7.9-21.7-5.3-5.2-12.5-7.8-21.5-7.8h-13.9v59.1z"
+       class="st13"
+       id="XMLID_10_" />
+    <path
+       d="M567.4 89.6c-8.1 0-14.7-2.7-19.7-8.1-5.1-5.4-7.6-12.2-7.6-20.5 0-7.8 2.5-14.5 7.4-20.1 4.9-5.6 11.2-8.4 18.9-8.4 7.9 0 14.3 2.6 19.1 7.8 4.8 5.2 7.2 12.1 7.2 20.8l-.1 1.9h-42.3c.3 5.4 2.1 9.7 5.4 12.8 3.3 3.1 7.2 4.7 11.6 4.7 7.2 0 12.1-3.1 14.7-9.2l9 3.7c-1.8 4.2-4.6 7.6-8.6 10.4-4.2 2.8-9.1 4.2-15 4.2zm14.5-35c-.2-3.1-1.6-6-4.2-8.8-2.6-2.8-6.4-4.2-11.5-4.2-3.7 0-6.9 1.2-9.7 3.5-2.7 2.3-4.6 5.5-5.6 9.4h31z"
+       class="st13"
+       id="XMLID_13_" />
+    <path
+       d="M613.7 87.8L592 34.2h11l15.8 41.6h.2l16-41.6h10.7l-21.9 53.6h-10.1z"
+       class="st13"
+       id="XMLID_16_" />
+    <path
+       d="M661.6 87.8h-10.1V9.5h45.7v9.6h-35.7v25.7h32.2v9.4h-32.2v33.6z"
+       class="st13"
+       id="XMLID_18_" />
+    <path
+       d="M727.7 89.6c-8.1 0-14.7-2.7-19.7-8.1-5.1-5.4-7.6-12.2-7.6-20.5 0-7.8 2.5-14.5 7.4-20.1 4.9-5.6 11.2-8.4 18.9-8.4 7.9 0 14.3 2.6 19.1 7.8 4.8 5.2 7.2 12.1 7.2 20.8l-.1 1.9h-42.3c.3 5.4 2.1 9.7 5.4 12.8 3.3 3.1 7.2 4.7 11.6 4.7 7.2 0 12.1-3.1 14.7-9.2l9 3.7c-1.8 4.2-4.6 7.6-8.6 10.4-4.3 2.8-9.2 4.2-15 4.2zm14.4-35c-.2-3.1-1.6-6-4.2-8.8-2.6-2.8-6.4-4.2-11.5-4.2-3.7 0-6.9 1.2-9.7 3.5-2.7 2.3-4.6 5.5-5.6 9.4h31z"
+       class="st13"
+       id="XMLID_20_" />
+    <path
+       d="M779.5 89.6c-6 0-10.9-1.5-14.8-4.4-3.9-2.9-6.8-6.6-8.6-10.9l9-3.7c2.8 6.7 7.7 10.1 14.5 10.1 3.1 0 5.7-.7 7.7-2.1 2-1.4 3-3.2 3-5.5 0-3.5-2.4-5.9-7.3-7.1l-10.8-2.6c-3.4-.9-6.7-2.5-9.7-5-3.1-2.4-4.6-5.7-4.6-9.9 0-4.7 2.1-8.6 6.3-11.5 4.2-3 9.2-4.4 14.9-4.4 4.7 0 9 1.1 12.7 3.2 3.7 2.2 6.4 5.2 8 9.2l-8.8 3.6c-2-4.7-6.1-7.1-12.2-7.1-3 0-5.5.6-7.5 1.9-2 1.2-3.1 2.9-3.1 5 0 3.1 2.4 5.1 7.1 6.2l10.6 2.5c5 1.2 8.8 3.2 11.2 6 2.4 2.8 3.6 6.1 3.6 9.6 0 4.8-2 8.8-5.9 12-4 3.3-9.1 4.9-15.3 4.9z"
+       class="st13"
+       id="XMLID_27_" />
+    <path
+       d="M830.9 88.7c-5.6 0-9.9-1.5-12.9-4.5s-4.4-7.2-4.4-12.7V43.4h-9.4v-9.2h9.4V17.8h10.1v16.4h13.1v9.2h-13.1v27.3c0 5.8 2.4 8.8 7.2 8.8 1.8 0 3.4-.3 4.6-.9l3.5 8.6c-2.2 1-4.9 1.5-8.1 1.5z"
+       class="st13"
+       id="XMLID_29_" />
+    <text
+       id="text160"
+       y="175.52924"
+       x="192.35519"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:25px;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan158"
+         y="175.52924"
+         x="192.35519"><tspan
+           id="tspan156"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.33333588px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#f9f9f9"
+           y="175.52924"
+           x="192.35519">Sudbury 2016</tspan></tspan></text>
+  </g>
+</svg>

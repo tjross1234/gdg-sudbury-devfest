@@ -12,12 +12,12 @@
     "title" : "General Partner"
   }, {
     "logos" : [ {
-      "logoUrl" : "../images/logos/gdg-lviv.svg",
-      "name" : "GDG Lviv",
-      "url" : "https://plus.google.com/102444623953913144164",
+      "logoUrl" : "../images/logos/gdg-sudbury.svg",
+      "name" : "GDG Sudbury",
+      "url" : "https://meetup.com/GDG-Sudbury",
       "width" : 170
     } ],
-    "title" : "Template Creator"
+    "title" : "Organizer"
   } ],
   "schedule" : [ {
     "date" : "2017-11-04",
