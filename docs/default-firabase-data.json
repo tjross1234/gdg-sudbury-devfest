@@ -3,7 +3,7 @@
     "logos" : [ {
       "logoUrl" : "../images/logos/google.svg",
       "name" : "Google",
-      "url" : "https://www.google.com.ua/intl/en/about/"
+      "url" : "https://www.google.ca/about/"
     }, {
       "logoUrl" : "../images/logos/gdg-x.svg",
       "name" : "GDG[x]",
@@ -65,25 +65,16 @@
     }
   },
   "speakers" : [ null, {
-    "bio" : "Graphic & Web Designer, and Chapter Lead of Ladies Learning Code Sudbury",
+    "bio" : "Web Developer/Open Data Lead for Greater Sudbury; Director of Sudbury Code-Op; Instructor for Ladies Learning Code Sudbury",
     "country" : "Sudbury, Ontario",
     "featured" : true,
     "id" : 1,
-    "name" : "Chrisanne Daniel",
-    "photoUrl" : "/images/people/cmdaniel.jpg",
-    "shortBio" : "A Graphic & Web Designer and a Chapter Lead at Ladies Learning Code Sudbury",
+    "name" : "Renee Higgins",
+    "shortBio" : "Web Developer/Open Data Lead for Greater Sudbury",
     "socials" : [ {
-      "icon" : "linkedin",
-      "link" : "https://www.linkedin.com/in/chrisannedaniel/",
-      "name" : "LinkedIn"
-    }, {
       "icon" : "twitter",
-      "link" : "https://twitter.com/Chrissi_MD/",
+      "link" : "https://twitter.com/HigginsRenee/",
       "name" : "Twitter"
-    }, {
-      "icon" : "website",
-      "link" : "https://chrisannedaniel.com/",
-      "name" : "Web site"
     } ],
     "tags" : [ "Design", "LLC" ],
     "title" : "Local Hero"
