@@ -25,15 +25,33 @@
     "timeslots" : [ {
       "endTime" : "10:00",
       "sessions" : [ {
-        "items": [ 100 ]
+        "items" : [ 100 ]
       } ],
       "startTime" : "09:00"
     }, {
       "endTime" : "11:00",
       "sessions" : [ {
-        "items": [ 101 ]
+        "items" : [ 101 ]
       } ],
       "startTime" : "10:00"
+    }, {
+      "endTime" : "12:00",
+      "sessions" : [ {
+        "items" : [ 102 ]
+      } ],
+      "startTime" : "11:00"
+    }, {
+      "endTime" : "13:00",
+      "sessions" : [ {
+        "items" : [ 103 ]
+      } ],
+      "startTime" : "12:00"
+    }, {
+      "endTime" : "14:00",
+      "sessions" : [ {
+        "items" : [ 104 ]
+      } ],
+      "startTime" : "13:00"
     } ],
     "tracks" : [ {
       "title" : "Expo hall"
@@ -50,24 +68,50 @@
       "id" : 100,
       "language" : "English",
       "presentation" : "https://google.com",
-      "speakers" : [ 1 ],
       "tags" : [ "Design" ],
       "title" : "Design is awesome"
     },
     "101" : {
       "complexity" : "Beginner",
-      "description" : "Learn how to build fabulous websites using Bootstrap",
+      "description" : "Welcome to Bootstrap v4.0\n\nWhat is Bootstrap? \"Bootstrap is an open source toolkit for developing with HTML, CSS, and JS. Quickly prototype your ideas or build your entire app with our Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful plugins built on jQuery.\"\n\nWhat this Code Lab will do:\nThis will be an introduction to the toolkit. We will be building a pretty basic webpage to understand the architecture\n\nThings you will need:\n- A laptop\n- The ability to connect to the internet to download files\n\nOptional:\n- A web server that you can connect to and are familiar with",
       "id" : 101,
       "language" : "English",
       "speakers" : [ 2 ],
       "tags" : [ "Web" ],
-      "title" : "Bootstrap in action"
+      "title" : "Intro to Bootstrap"
+    },
+    "102" : {
+      "complexity" : "Intermediate",
+      "description" : "Live coding demonstration showing how to build a similar web application using the Angular framework. Will include using Angular Material for UI components and Firebase or a public API to provide data source to demonstrate incorporating data. May include overview of hosting application (Github and Firebase) and implementing PWA components for the application.",
+      "id" : 102,
+      "language" : "English",
+      "speakers" : [ 3 ],
+      "tags" : [ "Web" ],
+      "title" : "Building Web Applications with Angular (4+)"
+    },
+    "103" : {
+      "complexity" : "Beginner",
+      "description" : "Join us for conversation as we enjoy food and drink!",
+      "id" : 103,
+      "language" : "English",
+      "tags" : [ "Social" ],
+      "title" : "Lunch"
+    },
+    "104" : {
+      "complexity" : "Intermediate",
+      "description" : "Overview of the Redux pattern and how it can be used to manage state in applications. Examples will show how to use libraries such as rxjs and ngRx to implement the Redux methodology in modern javascript applications.",
+      "id" : 104,
+      "language" : "English",
+      "speakers" : [ 3 ],
+      "tags" : [ "Web", "Lightning talk" ],
+      "title" : "Application State Management using the Redux Pattern"
     }
   },
   "speakers" : [ null, {
     "bio" : "Web Developer/Open Data Lead for Greater Sudbury; Director of Sudbury Code-Op; Instructor for Ladies Learning Code Sudbury",
+    "company" : "City of Greater Sudbury",
     "country" : "Sudbury, Ontario",
-    "featured" : true,
+    "featured" : false,
     "id" : 1,
     "name" : "Renee Higgins",
     "shortBio" : "Web Developer/Open Data Lead for Greater Sudbury",
@@ -77,37 +121,53 @@
       "name" : "Twitter"
     } ],
     "tags" : [ "Design", "LLC" ],
-    "title" : "Local Hero"
+    "title" : "Web Developer / Open Data Lead"
   }, {
     "badges" : [ {
       "description" : "Android Google Developer Expert",
       "link" : "https://developers.google.com/experts/people/example.html",
       "name" : "GDE"
     } ],
-    "bio" : "A local hero, who is a hero locally as well",
-    "company" : "Example.org",
-    "companyLogo" : "/images/logos/gdg-lviv.svg",
-    "country" : "Sudbury, ontario",
+    "bio" : "I am currently a Laurentian student in Computer Science specializing in Game Design. I have three years of web development experience working as a web developer for Science North.",
+    "company" : "Science North",
+    "companyLogo" : "/images/logos/science_north.png",
+    "country" : "Sudbury, Ontario",
     "featured" : true,
     "id" : 2,
-    "name" : "Hero Local",
-    "photoUrl" : "/images/people/example.jpg",
-    "shortBio" : "A hands-on worker",
-    "socials" : [ {
-      "icon" : "facebook",
-      "link" : "https://www.facebook.com/example",
-      "name" : "Facebook"
-    }, {
+    "name" : "Kaitlynn Anderson-Butcher",
+    "photoUrl" : "/images/people/kaitlynn_anderson_butcher.jpg",
+    "shortBio" : "Professional Web Developer, Laurentian Student, and Game Designer all in one package!",
+    "socials" : [ null, {
       "icon" : "twitter",
-      "link" : "https://twitter.com/example",
+      "link" : "https://twitter.com/I_design_games",
       "name" : "Twitter"
-    }, {
-      "icon" : "gplus",
-      "link" : "https://plus.google.com/+Example",
-      "name" : "Google+"
     } ],
     "tags" : [ "Web" ],
-    "title" : "Web designer"
+    "title" : "Lead Developer"
+  }, {
+    "bio" : "A Project Manager in the Engineering Systems group at Vale, Trevor implements solutions that leverage technology to streamline Business Processes.",
+    "company" : "Vale",
+    "country" : "Sudbury, Ontario",
+    "featured" : true,
+    "id" : 3,
+    "name" : "Trevor Ross",
+    "photoUrl" : "/images/people/trevor_ross.jpg",
+    "shortBio" : "Hobby Full Stack Web Developer and Coding Nerd",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/xtrevorross",
+      "name" : "Twitter"
+    }, {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/trevor-ross-b9849456/",
+      "name" : "LinkedIn"
+    }, {
+      "icon" : "website",
+      "link" : "http://tjrcadd.com",
+      "name" : "Blog"
+    } ],
+    "tags" : [ "Web" ],
+    "title" : "Project Manager"
   } ],
   "team" : [ {
     "members" : [ {
@@ -156,7 +216,7 @@
       "currency" : "$",
       "ends" : "Nov 1",
       "name" : "Free",
-      "price" : 0.00,
+      "price" : 0.0,
       "soldOut" : false,
       "starts" : "Sep 1"
     } ],
