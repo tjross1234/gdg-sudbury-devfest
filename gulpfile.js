@@ -67,17 +67,17 @@ function build() {
         const sourcesHtmlSplitter = new HtmlSplitter();
         const sourcesStream = polymerProject.sources()
           .pipe(sourcesHtmlSplitter.split())
-          .pipe(gulpif(/\.js$/, uglify()))
+          // .pipe(gulpif(/\.js$/, uglify()))
           .pipe(gulpif(/\.(html|css)$/, cssSlam()))
           .pipe(gulpif(/\.html$/, html.minify()))
-          .pipe(gulpif(/\.(png|gif|jpg|svg)$/, images.minify()))
+          // .pipe(gulpif(/\.(png|gif|jpg|svg)$/, images.minify()))
           .pipe(sourcesHtmlSplitter.rejoin());
 
         const dependenciesHtmlSplitter = new HtmlSplitter();
         const dependenciesStream = polymerProject.dependencies()
           .pipe(dependenciesHtmlSplitter.split())
           // Doesn't work for now
-          .pipe(gulpif(/\.js$/, uglify()))
+          // .pipe(gulpif(/\.js$/, uglify()))
           .pipe(gulpif(/\.(html|css)$/, cssSlam()))
           .pipe(gulpif(/\.html$/, html.minify()))
           .pipe(dependenciesHtmlSplitter.rejoin());
@@ -177,7 +177,7 @@ gulp.task('serve', gulp.series(compileTemplate, () => {
     'data/**/*.json',
     'scripts/**/*.js',
     'src/**/*.html',
-    './index.html',
+    '*.{html,js}',
     'manifest.json'
   ], gulp.series(compileTemplate, reload));
 }));
