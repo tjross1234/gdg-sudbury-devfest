@@ -52,6 +52,12 @@
         "items" : [ 104 ]
       } ],
       "startTime" : "13:00"
+    }, {
+      "endTime" : "14:00",
+      "sessions" : [ {
+        "items" : [ 105 ]
+      } ],
+      "startTime" : "13:00"
     } ],
     "tracks" : [ {
       "title" : "Expo hall"
@@ -105,6 +111,15 @@
       "speakers" : [ 3 ],
       "tags" : [ "Web", "Lightning talk" ],
       "title" : "Application State Management using the Redux Pattern"
+    },
+    "105" : {
+      "complexity" : "Intermediate",
+      "description" : "A talk about Janitor (https://janitor.technology/), an introduction to the fastest development system in the world. Complete with all the new features that have been added since last year's talk.",
+      "id" : 105,
+      "language" : "English",
+      "speakers" : [ 4 ],
+      "tags" : [ "Development" ],
+      "title" : "From `The Janitor` to `Janitor`"
     }
   },
   "speakers" : [ null, {
@@ -168,6 +183,17 @@
     } ],
     "tags" : [ "Web" ],
     "title" : "Project Manager"
+  }, {
+    "bio" : "I am studying Computer Science at Laurentian University. My passion for the Web as a platform for everyone and Open Source Software fuel my work on projects like Janitor. (https://janitor.technology/)",
+    "company" : "Laurentian University",
+    "country" : "Sudbury, Ontario",
+    "featured" : true,
+    "id" : 4,
+    "name" : "Patrick Trottier",
+    "photoUrl" : "/images/people/patrick_trottier.png",
+    "shortBio" : "Laurentian University Student in Computer Science  and Core Team Member for Janitor",
+    "tags" : [ "Coding" ],
+    "title" : "Student"
   } ],
   "team" : [ {
     "members" : [ {
